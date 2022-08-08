@@ -55,7 +55,7 @@
                 .info {
                     span {
                         &:not(:last-child):after {
-                            content: " |";
+                            content: "|";
                             margin-right: 9px;
                             margin-left: 9px;
                             .rating {
